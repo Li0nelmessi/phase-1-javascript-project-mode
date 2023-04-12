@@ -1,3 +1,10 @@
+#phase 1 project
+This is a web application whose main function is to provide match results and involve the users by providing a comment section for them to air out their views.
+
+Programming Languages Used
+~HTML
+~CSS
+~Javascript
 # Phase 1 Project Guidelines
 
 ## Learning Goals
@@ -170,3 +177,5 @@ You can consult the [json-server docs][] for more information.
 - [json-server][]
 
 [json-server]: https://www.npmjs.com/package/json-server
+
+
