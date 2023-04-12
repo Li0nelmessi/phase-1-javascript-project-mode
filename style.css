@@ -1,0 +1,60 @@
+h1{
+  text-align: center;
+  text-decoration: wavy;
+}
+p{
+  text-align: left;
+  font-size: 27px;
+  border-color: aquamarine;
+}
+
+.container {
+	max-width: 800px;
+	margin: 0 auto;
+	padding: 20px;
+	background-color: rgb(224, 150, 11);
+	border-radius: 30px;
+	box-shadow: rgb(8, 8, 11);
+}
+
+.match {
+	margin-bottom: 20px;
+	padding: 10px;
+	background-color: #fff;
+	border-radius: 5px;
+	box-shadow: 0 0 5px rgba(0, 0, 0, 0.1);
+}
+
+.date {
+	font-size: 20px;
+	font-weight: bold;
+	margin-bottom: 10px;
+}
+
+.team {
+	font-size: 30px;
+	font-weight: bold;
+}
+
+.score {
+	font-size: 16px;
+	margin-left: 10px;
+}
+
+.comment {
+	margin-top: 10px;
+	padding: 10px;
+	background-color: #f2f2f2;
+	border-radius: 5px;
+	box-shadow: 0 0 5px rgba(0, 0, 0, 0.1);
+}
+
+.comment-author {
+	font-size: 14px;
+	font-weight: bold;
+}
+
+.comment-text {
+	font-size: 14px;
+	margin-top: 5px;
+}
